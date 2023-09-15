@@ -1,6 +1,6 @@
-# Lab-8-Interactive-Graph-with-Shiny
+# Interactive-Graphs-with-Shiny
 
-This lab contains the following:
+This project contains the following:
 
     Histograms of all the properties 
     
