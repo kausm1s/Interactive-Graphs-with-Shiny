@@ -1,4 +1,4 @@
-# Interactive-Graphs-with-Shiny
+# Interactive Graphs with Shiny
 
 This project contains the following:
 
